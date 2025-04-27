@@ -28,16 +28,24 @@ More Details:-
    1- Cement (component 1) -- quantitative -- kg in a m3 mixture -- Input Variable
    
    2- Blast Furnace Slag (component 2) -- quantitative -- kg in a m3 mixture -- Input Variable
+   ![image](https://github.com/user-attachments/assets/1e7ee6a3-848f-408c-bec3-5718d60e6fc9)
+
    
    3- Fly Ash (component 3) -- quantitative -- kg in a m3 mixture -- Input Variable
+   ![image](https://github.com/user-attachments/assets/34c3ecb6-6890-43d8-b114-d37ae7ce6a15)
+
    
    4- Water (component 4) -- quantitative -- kg in a m3 mixture -- Input Variable
    
    5- Superplasticizer (component 5) -- quantitative -- kg in a m3 mixture -- Input Variable
+   ![image](https://github.com/user-attachments/assets/316937cb-268e-432d-8d64-8c7868695777)
+
    
    6- Coarse Aggregate (component 6) -- quantitative -- kg in a m3 mixture -- Input Variable
    
    7- Fine Aggregate (component 7) -- quantitative -- kg in a m3 mixture -- Input Variable
+   ![image](https://github.com/user-attachments/assets/3bd37cf8-964f-49cd-8f51-667500d653fd)
+
    
    8- Age -- quantitative -- Day (1~365) -- Input Variable
    
