@@ -47,6 +47,7 @@ More Details:-
    6- Coarse Aggregate (component 6) -- quantitative -- kg in a m3 mixture -- Input Variable
    
    7- Fine Aggregate (component 7) -- quantitative -- kg in a m3 mixture -- Input Variable
+   
    ![image](https://github.com/user-attachments/assets/3bd37cf8-964f-49cd-8f51-667500d653fd)
 
    
