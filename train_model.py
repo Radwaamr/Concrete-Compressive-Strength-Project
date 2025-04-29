@@ -5,10 +5,7 @@ import joblib
 
 df = pd.read_csv("Concrete_Data_Yeh.csv")
 
-# ده للتأكد بس، ممكن تشيليه بعدين
-print(df.columns)
 
-# استخدمي الاسم الصحيح هنا
 X = df.drop("csMPa", axis=1)
 y = df["csMPa"]
 
