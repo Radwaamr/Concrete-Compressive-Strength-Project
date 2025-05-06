@@ -74,6 +74,7 @@ More Details:-
    6. Polynomial + XGBRegressor
       
       Highest accuracy: 'Polynomial + XGBRegressor' model - 'MinMaxScaler'
+      
       Train: 96.99%             Test: 93.96%
 
         
@@ -87,4 +88,5 @@ More Details:-
    7. XGBoost
       
       Highest accuracy: 'AdaBoost' model - 'minmax scaler'
+      
       Train: 95.52%             Test: 93.03%     
